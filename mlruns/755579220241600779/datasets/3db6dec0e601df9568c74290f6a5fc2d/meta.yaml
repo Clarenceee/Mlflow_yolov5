@@ -1,0 +1,10 @@
+digest: 6e7e301a
+name: dataset
+profile: '{"num_rows": 18, "num_elements": 72}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "file_name", "required": true},
+  {"type": "integer", "name": "im_height", "required": true}, {"type": "integer",
+  "name": "im_width", "required": true}, {"type": "array", "items": {"type": "array",
+  "items": {"type": "float"}}, "name": "labels", "required": true}]}'
+source: '{"tags": {"mlflow.user": "clare", "mlflow.source.name": ".\\yolov5_ultra\\train.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "a8ff610708b758efe8a5dfadebf2257d242b1aa7"}}'
+source_type: code

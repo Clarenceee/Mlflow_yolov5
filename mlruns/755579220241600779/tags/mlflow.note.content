@@ -1,0 +1,1 @@
+This is an integration between MLFlow with YOLOv5 training script.The main goal is to log each training run's parameter, metrics, training data and output artifacts.

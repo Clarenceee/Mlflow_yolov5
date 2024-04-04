@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/My%20Project/Mlflow_yolov5/mlruns/755579220241600779/8eeaa9bfff094ee598f9b9d5129d8451/artifacts
+end_time: 1712197706414
+entry_point_name: ''
+experiment_id: '755579220241600779'
+lifecycle_stage: active
+run_id: 8eeaa9bfff094ee598f9b9d5129d8451
+run_name: Training-2024-04-04T10:20:31
+run_uuid: 8eeaa9bfff094ee598f9b9d5129d8451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712197232108
+status: 3
+tags: []
+user_id: clare
