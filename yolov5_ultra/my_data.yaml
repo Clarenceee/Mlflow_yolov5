@@ -1,0 +1,6 @@
+names:
+- Knife
+- Handgun
+nc: 2
+train: training/images/train
+val: training/images/validation
